@@ -1,7 +1,14 @@
+import { heroBg } from "../../../assets"
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <div>
+      <div></div>
+      <div>
+        <img src={heroBg} alt="Hero background" />
+      </div>
+  
+    </div>
   )
 }
 
