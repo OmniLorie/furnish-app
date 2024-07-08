@@ -1,4 +1,3 @@
-import heroBg from "./images/architectureheader.avif"
+import heroBg from "./images/heroBg.jpg";
 
-export{ heroBg };
-    
+export { heroBg };

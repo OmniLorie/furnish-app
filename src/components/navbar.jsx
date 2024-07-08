@@ -4,7 +4,7 @@ import K from "../constants"
 const Navbar = () => {
   return (
     <div className="flex justify-between px-40 py-10 fixed w-full left-0 top-0">
-      <span>Buildings</span>
+      <span>Build</span>
       <div className="flex gap-x-16">
         {
           K.NAVLINKS.map(
