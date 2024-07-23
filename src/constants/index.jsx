@@ -1,4 +1,4 @@
-import { HeartHandshake } from "lucide";
+
 import Navbar from "../components/navbar"
 
 const K = {
